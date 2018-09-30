@@ -7,7 +7,6 @@ var b = 2;
 var d = 3
 
 var c = a + b;
-var d = c * c;
 console.log(d);
 
 var c = a + b + d;
