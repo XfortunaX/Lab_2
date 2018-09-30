@@ -11,4 +11,4 @@ var d = c * c;
 console.log(d);
 
 var c = a + b + d;
-console.log(c);
+console.log('c = ', c);
